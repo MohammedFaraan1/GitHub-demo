@@ -1,4 +1,4 @@
 # GitHub-demo
 This is GitHub Demo repository
 <br>
-Author: Mohammed Faraan
+Author: Mohammed Faraan (CS)
